@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <script type="text/javascript" src="サイコロ.js"></script>
+    <link rel="stylesheet" type="text/css" href="サイコロ.css">
+    <meta charset="utf-8">
+    <title>webダイス</title>
+    <script>
+        function home();
+    </script>
+</header>
+
+<body>
+    <h1>webダイス</h1>
+    <p>web上で簡単に実行できるダイスです</p>
+    <div class="dice"><input type="button" value="サイコロを振る" onclick="WebDice()"></div>
+</body>
+
+</html>
