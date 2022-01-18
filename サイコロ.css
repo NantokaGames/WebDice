@@ -1,0 +1,27 @@
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center
+}
+
+.dice {
+    text-align: center
+}
+
+.again {
+    text-align: center
+}
+
+roll {
+    order: 1
+}
+
+reset {
+    order: 2
+}
+
+dice {
+    order: 3
+}
