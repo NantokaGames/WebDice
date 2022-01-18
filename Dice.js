@@ -18,3 +18,7 @@ var home = function() {
     document.write('<p>web上で簡単に実行できるダイスです</p>')
     document.write('<div class="dice"><input type="button" value="サイコロを振る" onclick="WebDice()"></div>')
 }
+var Delete = function() {
+    var list_element = document.getElementById("dice");
+    list_element.remove();
+}
